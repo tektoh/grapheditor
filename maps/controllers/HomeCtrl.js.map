@@ -1,0 +1,1 @@
+{"version":3,"sources":["controllers/HomeCtrl.coffee"],"names":[],"mappings":"CAAA,WAAA,QACE,WACC,SAAC,SACF,GAAQ,OAAO,2BACZ,WAAW,YAAa,SAAU","file":"controllers/HomeCtrl.js","sourcesContent":["define [\n  'angular'\n], (angular)->\n  angular.module 'controllers.HomeCtrl', []\n    .controller 'HomeCtrl', ['$scope', ($scope)->\n    ]\n"],"sourceRoot":"/source/"}

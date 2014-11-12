@@ -1,0 +1,2 @@
+(function(){define(["angular"],function(n){return n.module("controllers.HomeCtrl",[]).controller("HomeCtrl",["$scope",function(){}])})}).call(this);
+//# sourceMappingURL=../../maps/controllers/HomeCtrl.js.map

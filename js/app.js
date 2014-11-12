@@ -1,0 +1,2 @@
+(function(){define(["angular","angularRoute","controllers/HomeCtrl"],function(r){var e;return e=r.module("app",["ngRoute","controllers.HomeCtrl"]),e.config(["$routeProvider",function(r){return r.when("/",{templateUrl:"/html/home.html",controller:"HomeCtrl"})}])})}).call(this);
+//# sourceMappingURL=../maps/app.js.map
